@@ -1,2 +1,2 @@
-# eloquentjs
-Eloquent Java Script Exercises
+# Eloquent JavaScript Exercises
+
